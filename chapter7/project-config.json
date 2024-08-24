@@ -1,0 +1,13 @@
+{
+    "name": "chapter7",
+    "description": "Project chapter7",
+    "toolkit": "acme",
+    "sources": [
+        "gameMain.asm"
+    ],
+    "build": "debug",
+    "definitions": [],
+    "includes": [],
+    "args": [],
+    "compiler": ""
+}

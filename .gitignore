@@ -1,1 +1,3 @@
 *.prg
+.cache/
+build/
